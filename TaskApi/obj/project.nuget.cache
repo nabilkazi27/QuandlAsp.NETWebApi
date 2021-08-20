@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PQr+OKKXTNCIxhtsaF/HwqfmzBH37RO67fwX8i1hVeCJZnbAIIXFBWRPNI6C4hJ92oG+1kJOpGojGH5Zl1sNYg==",
+  "dgSpecHash": "oqU62OJ3T4Mji0ZGAhyWSUTaekRAIcWc2yrEN4wIUMnSpG54Tb+FN8CJgzlQHlprwKnFgOodXpaL8UJmTiHhaQ==",
   "success": true,
-  "projectFilePath": "D:\\ASP.NET Applications\\Go Digital Task Application\\TaskApi\\TaskApi.csproj",
+  "projectFilePath": "D:\\ASP.NET Applications\\Go Digital Task Application\\QuandlAspProject\\TaskApi\\TaskApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nabil\\.nuget\\packages\\efcore.bulkextensions\\5.3.7\\efcore.bulkextensions.5.3.7.nupkg.sha512",
     "C:\\Users\\Nabil\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",

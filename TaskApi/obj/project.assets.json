@@ -5854,11 +5854,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ASP.NET Applications\\Go Digital Task Application\\TaskApi\\TaskApi.csproj",
+      "projectUniqueName": "D:\\ASP.NET Applications\\Go Digital Task Application\\QuandlAspProject\\TaskApi\\TaskApi.csproj",
       "projectName": "TaskApi",
-      "projectPath": "D:\\ASP.NET Applications\\Go Digital Task Application\\TaskApi\\TaskApi.csproj",
+      "projectPath": "D:\\ASP.NET Applications\\Go Digital Task Application\\QuandlAspProject\\TaskApi\\TaskApi.csproj",
       "packagesPath": "C:\\Users\\Nabil\\.nuget\\packages\\",
-      "outputPath": "D:\\ASP.NET Applications\\Go Digital Task Application\\TaskApi\\obj\\",
+      "outputPath": "D:\\ASP.NET Applications\\Go Digital Task Application\\QuandlAspProject\\TaskApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nabil\\AppData\\Roaming\\NuGet\\NuGet.Config"
